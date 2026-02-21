@@ -1,0 +1,5 @@
+langchain
+langGraph
+langchain_Huggingface
+dotenv
+langchain_openai
